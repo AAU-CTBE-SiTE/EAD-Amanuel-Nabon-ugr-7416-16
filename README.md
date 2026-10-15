@@ -1,1 +1,1 @@
-# EAD-Amanuel-Nabon-ugr-7416-16
+# Lab 1: Java Maven Starter Project
